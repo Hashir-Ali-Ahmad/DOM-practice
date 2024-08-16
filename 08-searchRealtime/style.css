@@ -43,4 +43,5 @@ input::placeholder{
     width: 120px;
     background: #000;
     border-radius: 50%;
+    object-fit: cover;
 }
