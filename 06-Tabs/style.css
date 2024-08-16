@@ -17,7 +17,15 @@ body{
     /* padding: 10px; */
     border-radius: 200px;
     box-shadow: 3px 3px 5px black;
+    cursor: pointer;
 }
 .data{
     display: none;
+}
+p{
+    width: 50%;
+    text-align: justify;
+}
+.data{
+    padding: 20px;
 }
