@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background: #dadada;
+}
+.tab{
+    width: 200px;
+    margin-top: 20px;
+    height: 30px;
+    background: rgb(187, 178, 178);
+    text-align: center;
+    display: inline-block;
+    /* padding: 10px; */
+    border-radius: 200px;
+    box-shadow: 3px 3px 5px black;
+}
+.data{
+    display: none;
+}
